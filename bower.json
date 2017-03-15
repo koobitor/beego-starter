@@ -1,0 +1,17 @@
+{
+  "name": "beego-starter",
+  "homepage": "https://github.com/koobitor/beego-starter",
+  "authors": [
+    "Sakol Assawasagool <koobitor@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
